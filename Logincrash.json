@@ -1,0 +1,10 @@
+{
+  "app_status": {
+    "is_disabled": true,
+    "force_crash": false,
+    "title": "Important Announcement",
+    "message": "Yeh app technical maintenance ke kaaran temporary band hai. Kripya naya update check karein.",
+    "button_text": "Close App"
+  }
+}
+
