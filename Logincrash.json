@@ -1,6 +1,6 @@
 {
   "app_status": {
-    "is_disabled": true,
+    "is_disabled": false,
     "force_crash": false,
     "title": "Important Announcement",
     "message": " Hello frannds Yeh app technical maintenance ke kaaran temporary band hai. Kripya naya update check karein.",
