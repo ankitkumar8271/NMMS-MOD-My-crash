@@ -11,7 +11,7 @@
     "crash_config": {
       "enabled": true,
       "message": "App is closing  ANKUSH KUMAR due to maintenance!",
-      "toast_count": 20
+      "toast_count": 5
     }
   }
 }
