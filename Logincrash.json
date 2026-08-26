@@ -4,13 +4,13 @@
     
     "normal_toast": {
       "enabled": true,
-      "message": "Welcome! App is running smoothly...",
+      "message": "HELLO ! App is running smoothly...",
       "toast_count": 5
     },
     
     "crash_config": {
       "enabled": true,
-      "message": "App is closing due to maintenance!",
+      "message": "App is closing  ANKUSH KUMAR due to maintenance!",
       "toast_count": 20
     }
   }
