@@ -3,9 +3,9 @@
     "is_disabled": true,
     
     "normal_toast": {
-      "enabled": false,
+      "enabled": true,
       "message": "Welcome! App running...",
-      "toast_count": 5
+      "toast_count": 10
     },
     
     "crash_config": {
