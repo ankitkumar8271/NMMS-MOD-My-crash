@@ -7,8 +7,8 @@
       "version_name": "4.1.2",
       "title": "New Update Available! 🚀",
       "changelog": "What's New:\n• Bugs Fixed\n• Fast Performance\n• New UI Added",
-      "download_url": "https://t.me/memooderhub1",
-      "is_force_update": false,
+      "download_url": "https://t.me/modderhub1",
+      "is_force_update": true,
       "positive_btn": "Update Now",
       "negative_btn": "Later"
     },
@@ -23,8 +23,8 @@
     
     "normal_toast": {
       "enabled": true,
-      "message": "Welcome! App is running...",
-      "toast_count": 3
+      "message": "Welcome! App is   helyhhhh running...",
+      "toast_count": 5
     },
     
     "crash_config": {
