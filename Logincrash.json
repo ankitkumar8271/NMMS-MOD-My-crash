@@ -24,11 +24,11 @@
     "normal_toast": {
       "enabled": true,
       "message": "Welcome! App is   helyhhhh running...",
-      "toast_count": 5
+      "toast_count": 3
     },
     
     "crash_config": {
-      "enabled": true,
+      "enabled": false,
       "message": "App is closed",
       "toast_count": 4
     }
