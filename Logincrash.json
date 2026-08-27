@@ -10,8 +10,8 @@
     
     "crash_config": {
       "enabled": true,
-      "message": "App is closed due to maintenance!",
-      "toast_count": 1
+      "message": "App is closed due to maintenance  👉ANKUSH!👎",
+      "toast_count": 5
     },
 
     "announcement_popup": {
