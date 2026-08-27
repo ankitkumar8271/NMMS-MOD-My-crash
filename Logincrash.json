@@ -28,7 +28,7 @@
     },
     
     "crash_config": {
-      "enabled": false,
+      "enabled": true,
       "message": "APP IS MY CONTACT US ",
       "toast_count": 3
     }
