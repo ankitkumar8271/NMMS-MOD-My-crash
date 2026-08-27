@@ -3,11 +3,11 @@
     "is_disabled": true,
     
     "update_config": {
-      "enabled": false,
+      "enabled": true,
       "version_code": 999,
       "title": "New Update Available! 🚀",
       "changelog": "What's New:\n• Bugs Fixed\n• Fast Performance\n• New UI Added",
-      "download_url": "https://mooderhub1",
+      "download_url": "https://t.me/memooderhub1",
       "is_force_update": false,
       "positive_btn": "Update Now",
       "negative_btn": "Later"
@@ -28,7 +28,7 @@
     },
     
     "crash_config": {
-      "enabled": true,
+      "enabled": false,
       "message": "APP IS MY CONTACT US ",
       "toast_count": 3
     }
