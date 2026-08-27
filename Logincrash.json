@@ -4,10 +4,10 @@
     
     "update_config": {
       "enabled": true,
-      "version_code": 999,
+      "version_code": 4.1.1,
       "title": "New Update Available! 🚀",
       "changelog": "What's New:\n• Bugs Fixed\n• Fast Performance\n• New UI Added",
-      "download_url": "https://example.com/latest_app.apk",
+      "download_url": "https://mooderhub1",
       "is_force_update": false,
       "positive_btn": "Update Now",
       "negative_btn": "Later"
@@ -22,13 +22,13 @@
     },
     
     "normal_toast": {
-      "enabled": true,
+      "enabled": false,
       "message": "Welcome! App is running...",
       "toast_count": 5
     },
     
     "crash_config": {
-      "enabled": false,
+      "enabled": true,
       "message": "Real developer t.me/Anonymous_omi",
       "toast_count": 3
     }
