@@ -1,19 +1,16 @@
 {
   "app_status": {
     "is_disabled": false,
-    
     "normal_toast": {
       "enabled": true,
-      "message": "Welcome! App is running on the way smoothly...",
-      "toast_count": 5
+      "message": "Welcome! App is running smoothly...",
+      "toast_count": 3
     },
-    
     "crash_config": {
-      "enabled": true,
-      "message": "App is closed due to maintenance  👉ANKUSH!👎",
-      "toast_count": 5
+      "enabled": false,
+      "message": "App is closed due to maintenance!",
+      "toast_count": 1
     },
-
     "announcement_popup": {
       "show_dialog": true,
       "title": "Important Update!",
@@ -23,3 +20,4 @@
     }
   }
 }
+
