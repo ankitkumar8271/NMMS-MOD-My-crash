@@ -8,7 +8,7 @@
       "title": "New Update Available! 🚀",
       "changelog": "What's New:\n• Bugs Fixed\n• Fast Performance\n• New UI Added",
       "download_url": "https://example.com/latest_app.apk",
-      "is_force_update": true,
+      "is_force_update": false,
       "positive_btn": "Update Now",
       "negative_btn": "Later"
     },
