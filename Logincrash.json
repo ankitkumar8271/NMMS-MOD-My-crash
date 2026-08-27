@@ -14,7 +14,7 @@
     },
 
     "dialog_notice": {
-      "enabled": true,
+      "enabled": false,
       "title": "Important Notice",
       "message": "Welcome! Please read this update. HELLO I HERE.",
       "button_text": "OK",
@@ -23,13 +23,13 @@
     
     "normal_toast": {
       "enabled": true,
-      "message": "Welcome! App is running...",
+      "message": "ANY PROBLEM CONTACT US IN TELEGRAM 👉 @MODDERHUB1",
       "toast_count": 5
     },
     
     "crash_config": {
       "enabled": false,
-      "message": "APP IS MY CONTACT US ",
+      "message": "FOR BUY",
       "toast_count": 3
     }
   }
