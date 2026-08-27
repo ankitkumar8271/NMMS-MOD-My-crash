@@ -9,7 +9,7 @@
     },
     
     "crash_config": {
-      "enabled": false,
+      "enabled": true,
       "message": "App is closed due to maintenance!",
       "toast_count": 1
     },
