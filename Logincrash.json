@@ -1,23 +1,25 @@
 {
   "app_status": {
-    "is_disabled": false,
+    "is_disabled": true,
+    
+    "dialog_notice": {
+      "enabled": true,
+      "title": "Important Notice",
+      "message": "Welcome! Please read this update.",
+      "button_text": "OK",
+      "should_crash": false
+    },
+    
     "normal_toast": {
-      "enabled": true,
-      "message": "Welcome! App is running smoothly...",
-      "toast_count": 3
+      "enabled": false,
+      "message": "Welcome! App is running...",
+      "toast_count": 5
     },
+    
     "crash_config": {
-      "enabled": true,
-      "message": "App is closed due to maintenance!",
-      "toast_count": 1
-    },
-    "announcement_popup": {
-      "show_dialog": true,
-      "title": "Important Update!",
-      "message": "We have added new features. Please explore the app!",
-      "button_text": "OK, Got It",
-      "is_cancelable": false
+      "enabled": false,
+      "message": "Real developer t.me/Anonymous_omi",
+      "toast_count": 3
     }
   }
 }
-
