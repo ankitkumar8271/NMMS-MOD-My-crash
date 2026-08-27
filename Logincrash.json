@@ -14,7 +14,7 @@
     },
 
     "dialog_notice": {
-      "enabled": false,
+      "enabled": true,
       "title": "Important Notice",
       "message": "Welcome! Please read this update. HELLO I HERE.",
       "button_text": "OK",
