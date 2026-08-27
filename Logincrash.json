@@ -3,8 +3,8 @@
     "is_disabled": true,
     
     "update_config": {
-      "enabled": true,
-      "version_code": 4.1.1,
+      "enabled": false,
+      "version_code": 999,
       "title": "New Update Available! 🚀",
       "changelog": "What's New:\n• Bugs Fixed\n• Fast Performance\n• New UI Added",
       "download_url": "https://mooderhub1",
