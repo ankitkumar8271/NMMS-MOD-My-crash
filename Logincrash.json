@@ -7,7 +7,7 @@
       "title": "Important Notice",
       "message": "Welcome! Please read this update.",
       "button_text": "OK",
-      "should_crash": true
+      "should_crash": false
     },
     
     "normal_toast": {
