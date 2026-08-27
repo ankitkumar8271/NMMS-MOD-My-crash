@@ -3,7 +3,7 @@
     "is_disabled": true,
     
     "dialog_notice": {
-      "enabled": true,
+      "enabled": false,
       "title": "Important Notice",
       "message": "Welcome! Please read this update.",
       "button_text": "OK",
@@ -11,7 +11,7 @@
     },
     
     "normal_toast": {
-      "enabled": true,
+      "enabled": false,
       "message": "Welcome! App is running...",
       "toast_count": 5
     },
