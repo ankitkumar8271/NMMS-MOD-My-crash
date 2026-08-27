@@ -16,13 +16,13 @@
     "dialog_notice": {
       "enabled": true,
       "title": "Important Notice",
-      "message": "Welcome! Please read this update. HELLO I AM HERE.",
+      "message": "Welcome! Please read this update. HELLO I HERE.",
       "button_text": "OK",
       "should_crash": false
     },
     
     "normal_toast": {
-      "enabled": false,
+      "enabled": true,
       "message": "Welcome! App is running...",
       "toast_count": 5
     },
