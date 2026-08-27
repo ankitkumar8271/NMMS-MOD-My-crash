@@ -11,7 +11,7 @@
     },
     
     "normal_toast": {
-      "enabled": false,
+      "enabled": true,
       "message": "Welcome! App is running...",
       "toast_count": 5
     },
