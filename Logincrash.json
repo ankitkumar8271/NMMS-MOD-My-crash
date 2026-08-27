@@ -28,9 +28,9 @@
     },
     
     "crash_config": {
-      "enabled": false,
+      "enabled": true,
       "message": "App is closed",
-      "toast_count": 1
+      "toast_count": 4
     }
   }
 }
