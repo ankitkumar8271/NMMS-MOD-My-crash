@@ -4,7 +4,7 @@
     
     "normal_toast": {
       "enabled": true,
-      "message": "Welcome! App is running smoothly...",
+      "message": "Welcome! App is running on the way smoothly...",
       "toast_count": 5
     },
     
