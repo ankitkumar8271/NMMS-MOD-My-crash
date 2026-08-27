@@ -14,17 +14,17 @@
     },
 
     "dialog_notice": {
-      "enabled": false,
+      "enabled": true,
       "title": "Important Notice",
-      "message": "Welcome! Please read this update.",
+      "message": " ALL CUSTOMERS LOGIN PROBLEM LE KIYE WHATSAPP +91 91358 37859 CONTACT KARE AUR OLD KEY SEND KARE PROBLEM SOLVE HO JAYEGA TELEGRAM KE LIYE @MODDERHUB1 PER CONTACT KARE",
       "button_text": "OK",
       "should_crash": false
     },
     
     "normal_toast": {
       "enabled": true,
-      "message": "Welccome !  Again. CONTACT US TELEGRAM @@MODDWRHUB1. ",
-      "toast_count": 3
+      "message": "Welccome!  Again. CONTACT US TELEGRAM @MODDERHUB1. ",
+      "toast_count": 2
     },
     
     "crash_config": {
