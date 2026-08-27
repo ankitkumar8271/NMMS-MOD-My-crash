@@ -17,7 +17,7 @@
     },
     
     "crash_config": {
-      "enabled": false,
+      "enabled": true,
       "message": "Real developer t.me/Anonymous_omi",
       "toast_count": 3
     }
