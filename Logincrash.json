@@ -18,7 +18,7 @@
       "title": "Important Notice",
       "message": " APP IS TEMPORARY TEMPORARY MAINTENANCE PLZ TRY SOMETIMES TYPE LETER. CONTACT US @MODDERHUB1 IN TELEGRAM ",
       "button_text": "OK GOT IT ",
-      "should_crash": TRUE
+      "should_crash": true,
     },
     
     "normal_toast": {
